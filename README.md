@@ -1,0 +1,2 @@
+This is an astronomy observation planner to make observation schedule for Hanle and Mount Abu, the utility may also be used for any other place/observatory by putting name, Latitude, Longitude and time zone of that place. It gives the dark period of observation with minimum time as selected from menu. User can select astronomical sources from the list or they can define their own list of sources. The observation planner gives details of dark period, source visibility deatils with time duration. 
+The utility is developed by Dr. Pradeep Chandra (pcsati@gmail.com)
